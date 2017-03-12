@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tempat Madiun</string>
+    <string name="drawerBuka">Menu Terbuka</string>
+    <string name="drawerTutup">Menu Tertutup</string>
+</resources>
